@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination: MyString
+  time_in_days: 1
+  vacation_plans: MyString
+
+two:
+  destination: MyString
+  time_in_days: 1
+  vacation_plans: MyString
